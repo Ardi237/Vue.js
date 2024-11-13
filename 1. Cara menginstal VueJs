@@ -1,7 +1,22 @@
 A. Cara mengisntal Vue.js
-1. Ada 2 cara menginstall Vue.js yaitu dengan npm dan cdn
-2. 
+1. Ada 2 cara menginstall Vue.js yaitu dengan npm dan cdn.
+----------------------------------------------------------------------------------------------------------------------------
 
+B. Versi Vue.js
+1. Jika ingin menggunakan Vue.js 2 maka link cdn yang digunakan adalah : 
+<!-- Versi Production untuk Vue.js 2 -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
+
+<!-- Versi Development untuk Vue.js 2 -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+----------------------------------------------------------------------------------------------------------------------------
+2. JIka ingin menggunakan Vue.js 3 maka link cdn yang digunakan adalah :
+<!-- Versi Production untuk Vue.js 3 -->
+<script src="https://cdn.jsdelivr.net/npm/vue@3.2.57/dist/vue.global.prod.js"></script>
+
+<!-- Versi Development untuk Vue.js 3 -->
+<script src="https://cdn.jsdelivr.net/npm/vue@3.2.57/dist/vue.global.js"></script>
+----------------------------------------------------------------------------------------------------------------------------
 
 
 
